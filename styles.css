@@ -224,7 +224,7 @@ h1 {
 
 /* Responsive SMALLER screens */
 
-@media only screen and (max-width: 625px) {
+@media only screen and (max-width: 425px) {
     .primary-nav {
         bottom: 0;
         width: 100vw;
