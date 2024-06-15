@@ -135,7 +135,7 @@ h1 {
 
 /* Responsive LARGER screens */
 
-@media only screen and (min-width: 425px) {
+@media only screen and (min-width: 625px) {
 
     .primary-nav {
         top: 0;
@@ -223,7 +223,7 @@ h1 {
 
 /* Responsive SMALLER screens */
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 625px) {
     .primary-nav {
         bottom: 0;
         width: 100vw;
