@@ -110,6 +110,7 @@ img {
 
 main {
     padding-inline: 2em;
+    max-width: 100%; /* Ensure content does not overflow */
 }
 
 h1 {
