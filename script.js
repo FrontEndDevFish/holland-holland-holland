@@ -5,7 +5,7 @@ let currentDropdown = null;
 const dropBtns = document.querySelectorAll(".dropdown-btn");
 
 // Function to check if the screen width is larger than 625 pixels
-const isLargeScreen = () => window.innerWidth > 425;
+const isLargeScreen = () => window.innerWidth > 625;
 
 // Function to handle dropdown toggle
 const handleDropdownToggle = (item) => {
