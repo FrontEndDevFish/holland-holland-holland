@@ -74,6 +74,7 @@ img {
 .primary-nav {
     background-color: var(--clr-blue900);
     position: fixed;
+    overflow: hidden;
 }
 
 /*.nav__logo {
